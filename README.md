@@ -8,7 +8,7 @@
 	5. inserting, modifying and deleting data from tables using SQL
 	6. querying a database using SQL
 	7. doing a bulk load of a table using a comma separated file
-  #### In the Website File Folder:
+  #### In the Website Files Folder:
    8. Write a program using PHP and mysql that connects to a backend database
    9. Allow a user to make updates, insertions, deletions and query a database
    10. Create a program that runs on the internet
